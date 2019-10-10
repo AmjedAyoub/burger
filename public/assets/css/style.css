@@ -1,0 +1,36 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.head {
+    justify-content: center;
+}
+
+.add {
+    justify-content: center;
+}
