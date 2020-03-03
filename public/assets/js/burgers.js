@@ -42,7 +42,7 @@ $(function() {
     });
 
     $(".delete-burger").on("click", function(event) {
-        var id = $(this).data("id");
+        var id = $(this).data("burgerid");
     
         // Send the DELETE request.
         $.ajax("/api/burgers/" + id, {
